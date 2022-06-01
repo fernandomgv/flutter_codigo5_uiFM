@@ -25,7 +25,7 @@ class SportPage extends StatelessWidget {
                   height: 24.0,
                 ),
                 Text(
-                  "Hello Manuel",
+                  "Hello Fernando",
                   style: GoogleFonts.poppins(),
                 ),
                 const SizedBox(
@@ -74,7 +74,7 @@ class SportPage extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                                "Fernando, hagas lo que hagas, hazlo intensamente",
                                 maxLines: 2,
                                 style: GoogleFonts.poppins(
                                   color: Colors.white,
